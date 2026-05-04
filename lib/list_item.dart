@@ -61,7 +61,7 @@ class ListItem extends StatelessWidget {
             ),
           ),
 
-          Icon(Icons.arrow_forward_ios, size: 16),
+          Icon(Icons.arrow_forward_ios, size: 15),
         ],
       ),
     );
